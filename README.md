@@ -1,12 +1,9 @@
 # Restaurent-Search-APP-with-React-and-Yelp-API
 
-<img src="screen%20shots/Main%20Screen.jpg" height=50 width=50>
+#Main Screen
+<img src="jpgfiles/Main Screen.png" width=150 heigh=150> </img>
 
 
 
-
-
-
-
-
-<img src="screen%20shots/Restaurent%20images.jpg" height=50 width=50>
+#Restaurent images
+<img src="jpgfiles/Restaurent images.png" width=150 heigh=150></img>
